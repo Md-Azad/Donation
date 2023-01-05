@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+}
+
+.top-banner{
+    height: 800px;
+    width: 100%;
+    /* opacity: 0.6; */
+    text-align: center;
+    /* background-color: aliceblue; */
+
+    background-image: url(../images/donation7.jpg);
+    background-repeat: no-repeat;
+
+}
+.top-banner
+
+.banner-title{
+    color:orange;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 60px;
+    padding-top: 50px;
+
+}
+.banner-description{
+    color:rgb(242, 244, 247);
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 30px;
+    text-align:center;
+    margin-top: 40px;
+
+}
+
+.btn-primary{
+    color:azure;
+    font-size: 30px;
+    font-weight: 500;
+    background-color: orange;
+    margin-top: 50px;
+    padding: 20px 35px;
+    border: 0;
+    border-radius: 5%;
+}
+
+/* main part's styles */
+
+.main-body{
+    text-align: center;
+    margin: 80px 50px;
+}
+
+.donate-today{
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.donate-description{
+    font-size: 22px;
+}
+
+.donate-amount{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-bottom: 30px;
+   
+    
+    
+}
+
+.amount-border{
+    background-color: antiquewhite;
+    padding: 50px;
+}
+
+.amount-pointer{
+    background-color: rgb(231, 200, 205);
+    padding: 50px;
+    outline-style: solid;
+    outline-color: red;
+}
+
