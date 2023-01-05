@@ -85,3 +85,81 @@
     outline-color: red;
 }
 
+/* main body second part's styles */
+
+.sector-title{
+    font-weight: 800;
+    font-size: 50px;
+    margin-top: 90px;
+}
+
+.sector-description{
+    font-weight: 800;
+    font-size: 22px;
+    margin: 30px 0;
+}
+
+/* card menu */
+
+.card-menu{
+    display:flex;
+    text-align: left;
+    gap: 24px;
+}
+
+.card1{
+    background-color: bisque;
+    padding: 50px 30px 50px 20px;
+    height: 400px;
+    border-radius: 5%;
+    justify-content: center;
+}
+.card2{
+    background-color: aquamarine;
+    padding: 50px 30px 50px 20px;
+    height: 400px;
+    border-radius: 5%;
+    justify-content: center;
+}
+.card3{
+    background-color: cadetblue;
+    padding: 50px 30px 50px 20px;
+    height: 400px;
+    border-radius: 5%;
+    justify-content: center;
+}
+
+
+
+/* section below */
+
+.section-below{
+    display: flex;
+    gap: 30px;
+    margin-top: 60px;
+
+}
+
+.down-image{
+    height: 600px;
+    width: 700px;
+}
+
+
+.description{
+    background-color: bisque;
+    padding-top: 50px;
+   
+}
+.b-title{
+    padding-bottom: 80px;
+    font-size: 60px;
+    font-weight: 800;
+
+}
+
+.b-description{
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-weight: 800;
+}
