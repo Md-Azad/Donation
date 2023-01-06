@@ -185,17 +185,23 @@
     background-color: bisque;
     height: 200px;
     padding-top: 150px;
+    
    
 }
 
 .s-email{
     padding: 8px;
     background-color: rgb(248, 245, 245);
+    border: 0;
 }
 
 .f-btn{
     background-color: orange;
-    padding: 10px;
-    border: 0;
+    padding: 8px;
     border-radius: 5%;
+    border: 0;
 }
+
+
+/* practice */
+
